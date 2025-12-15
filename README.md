@@ -1,4 +1,4 @@
-AI News CLI
+AI News Agent
 ============
 
 Project Title and Description
